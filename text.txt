@@ -1,1 +1,2 @@
 print("Pasha something new")
+print("Turezkii Pasha sablu slomal po polam, kogda i skazal emu Pasha salam")
