@@ -1,12 +1,1 @@
-abracadabra
-
-and here
-abracadabra
-
-
-
-
-added new string here
-
-
-and something new here
+print("Pasha")
